@@ -14,13 +14,6 @@ This repository contains a variety of academic projects and my scripts that I wr
 - Demonstrate real-world applications
 - Encourage exploration and creativity
 
-## Projects List
-
-1. **[Project Name 1](link_to_project_1)**: Brief description of the project. Explain what it covers and what students can learn from it.
-
-2. **[Project Name 2](link_to_project_2)**: Brief description of the project. Explain what it covers and what students can learn from it.
-
-3. ...
 
 ## Getting Started
 
